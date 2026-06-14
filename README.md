@@ -27,4 +27,4 @@ Author's Request: This is my first time using github and I wanted to share my si
 
 
 
- **[Click Here for the Table of Contents](TableofContents.md)** — *Navigate through all individual episodes, lore files, and character designs.*                  
+ **[Click Here for the Table of Contents](Table-of-Contents.md)** — *Navigate through all individual episodes, lore files, and character designs.*                  
