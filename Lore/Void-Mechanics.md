@@ -41,3 +41,6 @@ Every active use of a Void ability follows a strict three-step sequence:
 1. **The Breach (Perception):** The user slows their heart rate down to perceive the thin boundary line between realities.
 2. **The Distortion (Manipulation):** The user bridges the gap, allowing Void energy to bleed into the physical world to warp space, create shields, or deliver kinetic strikes.
 3. **The Collapse (Stabilization):** The energy snaps shut back into its own dimension, resulting in a sudden rush of rushing air (a kinetic clap) as nature rushes to fill the vacuum left behind.
+
+**Next Branch:** [Weapons & Artifacts](Artifacts.md)
+**Return:** [Master Table of Contents](../Table-of-Contents.md)
