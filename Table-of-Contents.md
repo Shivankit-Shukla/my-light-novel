@@ -4,10 +4,13 @@ TABLE OF CONTENTS
 *A sci-fi/fantasy epic exploring the space between heartbeats.*
 
 ###  Core Lore & Settings
-* **[Void Metaphysical Rules](Lore/Void-Mechanics.md)** — *The absolute laws, constraints, and costs of utilizing Void energy.*
-* **[Character Design Profiles](Lore/Character-Profiles.md)** — *Visual aesthetics, psychological profiles, and ability sheets for Kael and the cast.*
-* **[World-Building & Factions](Lore/World-Setting.md)** — *The geopolitical layout of Valdris and the cosmic entities outside it.*
-
+└──  Core Void Systems
+     ├──  [Void Metaphysical Rules](Lore/Void-Mechanics.md) ── *Laws & Costs*
+     │──  [Weapons & Artifacts](Lore/Artifacts.md) ── *Forged from Void energy*
+     │
+     └── World Foundations
+         ├── [Character Design Profiles](Lore/Character-Profiles.md) ── *Kael & Cast*
+         
 ###  ARC 1: THE FALL OF VALDRIS (Chapters 1–12)
 *  **[Chapter 01: The First Breach](Arc-1/Chapter-01.md)** — *Status: Draft Upcoming*
 *  **[Chapter 02: Title Placeholder](Arc-1/Chapter-02.md)**
